@@ -1,0 +1,23 @@
+body {
+    background-color: #FFEEDF;
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    background-color: #1c5a4e;
+    color:#FFEEDF;
+    border-radius: 50%;
+    height: 240px;
+    width: 240px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
